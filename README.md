@@ -16,7 +16,7 @@ Based on the csv files provided, the results of the employee analysis are as fol
 	* Approximately 1/3 of the employees have the title of 'Senior Staff'. An additional 1/6 of the employees have the title of 'Staff'.
 * Additional analysis must be completed on the original datasets provided for Deliverable 1, as the current analysis does not provide insight into:
 	* The percentage of current employees at each position who are retiring.
-	* The amount of employees who are eligible (and qualified) for promotion to the 'Senior' level.
+	* The number of employees who are eligible (and qualified) for promotion to the 'Senior' level.
 
 _Retirement Titles_
 
@@ -24,10 +24,10 @@ _Retirement Titles_
 
 * Approximately 1,500 employees are eligible for the 'mentorship program' based on if the employee:
 	* Has a birth date during the year 1965.
-	* Is currently employeed.
+	* Is currently employed.
 * Additional analysis must be completed on the original datasets provided for Deliverable 2, as the current analysis:
 	* Does not provide insight into the historical performance of those eligible for the mentorship program.
-	* Severly limits the mentorship eligibility to one birth year, whereas the retirement analysis considers 4 birth years.
+	* Severely limits the mentorship eligibility to one birth year, whereas the retirement analysis considers 4 birth years.
 
 _Membership Eligibility_
 
@@ -37,7 +37,7 @@ _Membership Eligibility_
 
 Based on the datasets and instructions provided:
 * Approximately 90,000 individuals will be up for retirement as the 'silver tsunami' begins to make an impact. However, this does not necessarily have a strong correlation with number of roles that need to be filled. Additional analysis is required to determine if those who are retiring can be replaced by better performing employees and additional automation.
-* The question on if there is enough qualified individuals cannot be answered based on the provided data. This answer is most likely yes, however the analysis requested severly limits the number of current employees eligible for the program and does not take into consideration qualifications such as:
+* The question on if there is enough qualified individuals cannot be answered based on the provided data. This answer is most likely yes, however the analysis requested severely limits the number of current employees eligible for the program and does not take into consideration qualifications such as:
 	* Historical performance
 	* Length of time at the company
 	* Ratio of eligible employees versus retiring employees based on title
