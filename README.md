@@ -19,6 +19,7 @@ Based on the csv files provided, the results of the employee analysis are as fol
 	* The amount of employees who are eligible (and qualified) for promotion to the 'Senior' level.
 
 _Retirement Titles_
+
 ![retirement_titles](https://user-images.githubusercontent.com/82549092/120946159-87afa380-c709-11eb-99f1-bf0342a4f1bd.png)
 
 * Approximately 1,500 employees are eligible for the 'mentorship program' based on if the employee:
@@ -29,6 +30,7 @@ _Retirement Titles_
 	* Severly limits the mentorship eligibility to one birth year, whereas the retirement analysis considers 4 birth years.
 
 _Membership Eligibility_
+
 ![membership_eligibility](https://user-images.githubusercontent.com/82549092/120946266-e4ab5980-c709-11eb-9c20-30f5d33490df.PNG)
 
 **Employee Analysis Summary**
